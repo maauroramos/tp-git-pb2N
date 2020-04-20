@@ -7,4 +7,4 @@ C) para poder indicarle a la consola el directorio remoto se usa el comando git 
 
 6) el parametro -b en un git checkout te permite la creacion de una nueva rama.
 
-prueba
+9)
