@@ -10,3 +10,6 @@ C- Para poder indicarle a la consola el directorio remoto se usa el comando git 
 
 
 9) 
+a-Realizando el merge de una rama a otra se puede ver que las carpetas se copian en dicha rama.
+
+b- Debemos clonar la rama a la cual queremos hacer el merge, sino desde la consola no vamos a poder ingresar a dicha rama.
